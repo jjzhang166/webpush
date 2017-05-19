@@ -1,0 +1,1 @@
+nohup java -jar webpush-test-0.0.1-SNAPSHOT.jar &
