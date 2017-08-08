@@ -1,9 +1,9 @@
 package com.github.wuzguo.server.cluster.message;
 
 
-import com.github.wuzguo.codegen.annotation.Comment;
-import com.github.wuzguo.codegen.annotation.ParametersComment;
-import com.github.wuzguo.codegen.annotation.ReturnComment;
+import com.github.wuzguo.webpush.common.annotation.Comment;
+import com.github.wuzguo.webpush.common.annotation.ParametersComment;
+import com.github.wuzguo.webpush.common.annotation.ReturnComment;
 import com.github.wuzguo.webpush.common.cluster.IClusterMessageSync;
 import com.github.wuzguo.webpush.common.enums.MessageTypeEnum;
 import com.github.wuzguo.webpush.common.server.ISocketIoServer;

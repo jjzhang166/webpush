@@ -3,11 +3,11 @@ package com.github.wuzguo.server.authenticate.jwt.action;
 
 import com.corundumstudio.socketio.AckRequest;
 import com.corundumstudio.socketio.SocketIOClient;
-import com.github.wuzguo.codegen.annotation.Comment;
-import com.github.wuzguo.codegen.annotation.ParametersComment;
-import com.github.wuzguo.codegen.annotation.ReturnComment;
 import com.github.wuzguo.server.action.AbstractActionDataListener;
 import com.github.wuzguo.server.authenticate.jwt.util.JwtUtil;
+import com.github.wuzguo.webpush.common.annotation.Comment;
+import com.github.wuzguo.webpush.common.annotation.ParametersComment;
+import com.github.wuzguo.webpush.common.annotation.ReturnComment;
 import com.github.wuzguo.webpush.common.enums.MessageTypeEnum;
 import com.github.wuzguo.webpush.common.vo.BusinessP2PMessageVo;
 import com.github.wuzguo.webpush.common.vo.JwtTokenVo;

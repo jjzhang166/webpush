@@ -1,7 +1,7 @@
 package com.github.wuzguo.webpush.common.base;
 
 
-import com.github.wuzguo.codegen.annotation.Comment;
+import com.github.wuzguo.webpush.common.annotation.Comment;
 
 import java.io.Serializable;
 

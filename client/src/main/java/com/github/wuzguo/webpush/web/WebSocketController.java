@@ -1,9 +1,7 @@
 
 package com.github.wuzguo.webpush.web;
 
-import com.github.wuzguo.codegen.annotation.Comment;
-import com.github.wuzguo.codegen.annotation.ParametersComment;
-import com.github.wuzguo.codegen.annotation.ReturnComment;
+
 import com.github.wuzguo.webpush.common.base.Result;
 import com.github.wuzguo.webpush.common.base.ReturnMsg;
 import com.github.wuzguo.webpush.common.enums.MessageTypeEnum;

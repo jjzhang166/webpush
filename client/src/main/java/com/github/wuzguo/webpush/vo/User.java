@@ -1,7 +1,8 @@
 
 package com.github.wuzguo.webpush.vo;
 
-import com.github.wuzguo.codegen.annotation.Comment;
+
+import com.github.wuzguo.webpush.common.annotation.Comment;
 
 import java.io.Serializable;
 import java.util.Arrays;

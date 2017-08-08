@@ -1,11 +1,11 @@
 package com.github.wuzguo.server.authenticate.jwt.web;
 
 
-import com.github.wuzguo.codegen.annotation.Comment;
-import com.github.wuzguo.codegen.annotation.ParametersComment;
-import com.github.wuzguo.codegen.annotation.ReturnComment;
 import com.github.wuzguo.server.authenticate.jwt.sample.JwtTokenCreateSample;
 import com.github.wuzguo.server.authenticate.jwt.util.JwtUtil;
+import com.github.wuzguo.webpush.common.annotation.Comment;
+import com.github.wuzguo.webpush.common.annotation.ParametersComment;
+import com.github.wuzguo.webpush.common.annotation.ReturnComment;
 import com.github.wuzguo.webpush.common.vo.JwtTokenUserVo;
 import com.github.wuzguo.webpush.common.vo.JwtTokenVo;
 import com.github.wuzguo.webpush.common.vo.ResultVo;

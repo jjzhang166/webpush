@@ -1,7 +1,7 @@
 package com.github.wuzguo.webpush.common.vo;
 
 
-import com.github.wuzguo.codegen.annotation.Comment;
+import com.github.wuzguo.webpush.common.annotation.Comment;
 
 /**
  * jwt 令牌vo

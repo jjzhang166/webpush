@@ -2,7 +2,7 @@ package com.github.wuzguo.server.authenticate.jwt.sample;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.serializer.SerializerFeature;
-import com.github.wuzguo.codegen.param.ISample;
+import com.github.wuzguo.webpush.common.param.ISample;
 import com.github.wuzguo.webpush.common.vo.JwtTokenUserVo;
 import com.github.wuzguo.webpush.common.vo.JwtTokenVo;
 import com.github.wuzguo.webpush.common.vo.ResultVo;
